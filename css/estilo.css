@@ -1,4 +1,4 @@
-/* Ejercicio 4-1 */
+/* Regla 4-1 */
 * {
   font-family: "Open Sans", serif;
   font-optical-sizing: auto;
@@ -8,69 +8,69 @@
     "width" 100;
 }
 
-/* Ejercicio 4-2 */
+/* Regla 4-2 */
 body {
   margin: 0;
   padding-left: 20%;
   padding-right: 20%;
 }
 
-/* Ejercicio 4-3 */
+/* Regla 4-3 */
 h1{
   text-decoration: underline;
   color: darkcyan;
   text-align: center;
 }
 
-/* Ejercicio 4-4 */
+/* Regla 4-4 */
 .selector{
   color: lightcyan;
 }
 
-/* Ejercicio 4-5 */
+/* Regla 4-5 */
 .selectors{
   padding: 5%;
   border: solid darkcyan 1px;
   border-radius: 5px;
 }
 
-/* Ejercicios 4-6 */
+/* Reglas 4-6 */
 #universal{
   color: lightgoldenrodyellow;
 }
 
-/* Ejercicio 4-7 */
+/* Regla 4-7 */
 h2.selector, h2#universal {
   background-color: darkcyan;
   padding: 1%;
   border-radius: 5px;
 }
 
-/* Ejercicio 4-8 */
+/* Regla 4-8 */
 span{
   font-weight: 900;
   background-color:black;
   color: white;
 }
 
-/* Ejercicio 4-9 */
+/* Regla 4-9 */
 li > a {
   text-decoration: none;
 }
 
-/* Ejercicio 4-10 */
+/* Regla 4-10 */
 h3{
   background-color: rgba(0, 139, 139, 0.529);
   padding: 0.5px;
   border-radius: 5px;
 }
 
-/* Ejercicio 4-11 */
+/* Regla 4-11 */
 #gallery div {
   width: 100%;
 }
 
-/* Ejercicio 4-12 */
+/* Regla 4-12 */
 img{
   width: 100%;
   border: solid darkcyan 1px;
